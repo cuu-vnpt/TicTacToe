@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/macos/Desktop/Operator/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/macos/Desktop/Operator/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/macos/Desktop/Operator/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/macos/Desktop/Operator/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
